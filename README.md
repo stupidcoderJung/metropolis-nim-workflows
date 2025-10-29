@@ -121,7 +121,3 @@ Thanks to the following people for contributing to our workflows:
 - [Dhruv Nandakumar](https://github.com/dnandakumar-nv)
 - [Adeola Adesoba](https://github.com/Adeola-Adesoba)
 
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=NVIDIA/metropolis-nim-workflows&type=Date)](https://star-history.com/#NVIDIA/metropolis-nim-workflows&Date)
