@@ -4,3 +4,5 @@
 **/venv
 **/.ipynb_checkpoints
 dev_tests
+**/key.txt
+**/.claude/
